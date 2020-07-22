@@ -1,4 +1,4 @@
-![Python 3.6 - 3.8](https://github.com/santiagorevale/ci_course/workflows/Python%203.6%20-%203.8/badge.svg)
+![Python 3.6 - 3.8 ](https://github.com/santiagorevale/ci_course/workflows/Python%203.6%20-%203.8/badge.svg)
 ![OS Versions](https://github.com/santiagorevale/ci_course/workflows/OS%20Versions/badge.svg)
 ![Coverage](https://github.com/santiagorevale/ci_course/workflows/coverage/badge.svg)
 
